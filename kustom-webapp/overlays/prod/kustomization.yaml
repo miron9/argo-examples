@@ -7,3 +7,5 @@ patches:
 configMapGenerator:
 - name: mykustom-map
   env: config.properties
+
+namePrefix: prod-kustom-
